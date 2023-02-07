@@ -11,8 +11,8 @@ This repository contains a code generator for creating classes based on an Oracl
 The code generator is designed to be easy to use. Simply follow these steps to generate classes based on your Oracle database schema:
 
 1. Clone this repository to your local machine.
-2. Update the configuration file (`config.json`) with your Oracle database connection information.
-3. Run the code generator by executing the `generate.sh` script or the `generate.bat` script, depending on your operating system.
+2. Update the configuration file (`app.config`) with your Oracle database connection information.
+3. Run the code generator by executing the generate.exe.
 4. The generated classes will be written to the `output` directory.
 
 <!-- Customizing the Generated Classes -->
