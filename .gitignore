@@ -1,0 +1,31 @@
+.nuget/
+# Binaries
+bin/
+obj/
+# Visual Studio cache files
+*.suo
+*.user
+*.sln.docstates
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+bld/
+[Bb]uild/
+[Ll]og/
+# Visual Studio backup files
+*.bak
+# ASP.NET files
+*.vsdisco
+# Nuget packages
+packages/
+# Generated code
+Generated\ Files/
+# Rider
+.idea/
+# WebEssentials
+.vs/
+.webessentials/
+.upgrade-assistant
+*.backup/
